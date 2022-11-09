@@ -1,4 +1,4 @@
-# Lucid Buddy Privacy Policy
+
 **Privacy Policy**
 
 Jiggles built the Lucid Buddy app as a Commercial app. This SERVICE is provided by Jiggles and is intended for use as is.
